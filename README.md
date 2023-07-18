@@ -2,7 +2,7 @@
   <img src="./AstroGif.gif" width="100%"/>
 </div>
 
-### 👋 About Me :
+#### 👨🏽‍🚀 About Me :
 Hi! I'm @nando123abc and I enjoy creating in many different mediums. Have a look at my work at [worp.space](www.worp.space)
 
 - I studied Architecture and recieved my Masters at [FIU](https://www.fiu.edu/). I continued my education with a post-professional Masters degree, with a focus on technology.
@@ -13,7 +13,7 @@ Hi! I'm @nando123abc and I enjoy creating in many different mediums. Have a look
 
 ---
 
-### 💻 Tools :
+#### 💻 Tools :
 Programming Language: <br>
 - JavaScript, HTML, CSS, C++, C#, Python <br>
 3D/Game: <br>
