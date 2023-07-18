@@ -3,9 +3,9 @@
 </div>
 
 ### :man_technologist: About Me :
-👋Hi! I'm @nando123abc and I enjoy creating a variety of works in many different mediums. Check them out @[worp.space](www.worp.space)
+👋Hi! I'm @nando123abc and I enjoy creating a variety of works in many different mediums. Check them out at [worp.space](www.worp.space)
 
-- I studied Architecture and recieved my Masters @[FIU](https://www.fiu.edu/). I continued my education with a post-professional Masters degree, with a focus on technology.
+- I studied Architecture and recieved my Masters at [FIU](https://www.fiu.edu/). I continued my education with a post-professional Masters degree, with a focus on technology.
 
 - I currently work as a creative technologist and love experimenting and learning new things. 
 
