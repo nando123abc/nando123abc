@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./Astro.gif" width="100%"/>
+  <img src="./AstroGif.gif" width="100%"/>
   <h1>
   Hey there!
 </h1>
