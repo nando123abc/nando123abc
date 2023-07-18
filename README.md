@@ -5,7 +5,7 @@
 #### 👨🏽‍🚀 About Me :
 Hi! I'm @nando123abc and I enjoy creating in many different mediums. Have a look at my work at [worp.space](www.worp.space)
 
-- I studied Architecture and recieved my Masters at [FIU](https://www.fiu.edu/), followed by a a post-professional Masters degree focused on technology.
+- I studied Architecture and recieved my Masters at [FIU](https://www.fiu.edu/), followed with a post-professional Masters degree focused on technology.
 
 - I currently work as a creative technologist and love experimenting and learning new things. 
 
