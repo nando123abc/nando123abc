@@ -14,15 +14,15 @@ Hi! I'm @nando123abc and I enjoy creating in many different mediums. Have a look
 ---
 
 #### 💻 Tools :
-- Programming Language: <br>
+- **Programming Language:** <br>
 JavaScript, HTML, CSS, C++, C#, Python <br>
-- 3D/Game: <br>
+- **3D/Game:** <br>
 Unreal Engine, Unity3D, 3Ds Max, Cinema 4D, Rhino3D, AutoCad, Blender, SketchUp, <br>
-- Developer Tools: <br>
+- **Developer Tools:** <br>
 Git, VS Code, Visual Studio. Open Frameworks, Xcode <br>
-- SDKs: <br>
+- **SDKs:** <br>
 WebXR, Vuforia, ARKit, ARCore, OpenXR, Three.js, OpenGL<br>
-- Hardware: <br>
+- **Hardware:** <br>
 Meta Quest2, Meta Quest Pro, Arduino, LEDs, Vicon Motion Capture System, 
 
 ---
