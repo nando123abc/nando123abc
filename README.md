@@ -1,14 +1,28 @@
 <div id="header" align="center">
   <img src="./AstroGif.gif" width="100%"/>
-  <h1>
-  Hey there!
-</h1>
 </div>
 
-- 👋 Hi, I’m @nando123abc
-- 👀 I’m interested in Architecture, Technology, and Art.
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on projects.
+### :man_technologist: About Me :
+👋Hi! I'm @nando123abc and I enjoy creating a variety of works in many different mediums. 
+
+- I studied Architecture and recieved my Masters @[FIU](https://www.fiu.edu/). I continued my education with a post-professional Masters degree, with a focus on technology.
+
+- I currently work as a creative technologist and love experimenting and learning new things. 
+
+- I'm interested in Interactive design, Game Development, AI, Augmented Reality, Virtual Reality, Mixed/Extended Reality, Data Visualization, Web Development, Art, Architecture, and other related fields. 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+- # Programming Language ----- JavaScript, HTML, CSS, C++, C#, Python <br>
+- ## 3D/Game -----  Unreal Engine, Unity3D, 3Ds Max, Cinema 4D, Rhino3D, AutoCad, Blender, SketchUp, <br>
+- Developer Tools ----- Git, VS Code, Visual Studio. Open Frameworks, Xcode <br>
+- SDKs ----- WebXR, Vuforia, ARKit, ARCore, OpenXR, Three.js, OpenGL<br>
+- Hardware ----- Meta Quest2, Meta Quest Pro, Arduino, LEDs, Vicon Motion Capture System, 
+
+
+
+
 - 📫 How to reach me www.worp.space
 
 <!---
