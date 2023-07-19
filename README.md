@@ -2,6 +2,8 @@
   <img src="./AstroGif.gif" width="100%"/>
 </div>
 
+---
+
 #### 👨🏽‍🚀 About Me :
 Hi! I'm @nando123abc and I enjoy creating in many different mediums. Have a look at my work at [worp.space](http://www.worp.space)
 
@@ -24,8 +26,6 @@ Git, VS Code, Visual Studio. Open Frameworks, Xcode <br>
 WebXR, Vuforia, ARKit, ARCore, OpenXR, Three.js, OpenGL<br>
 - **Hardware:** <br>
 Meta Quest2, Meta Quest Pro, Arduino, LEDs, Vicon Motion Capture System, 
-
----
 
 <!---
 nando123abc/nando123abc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
